@@ -1,5 +1,5 @@
-Shiny EDA Web App
-Overview
+Shiny EDA Web App Overview:
+
 This Shiny web application provides Exploratory Data Analysis (EDA) by generating various standard graphs. The app allows users to:
 ✅ Upload a CSV file for analysis
 ✅ View the top 6 observations of each variable
